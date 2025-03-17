@@ -1,6 +1,10 @@
 # OpenFish-Edu
 This repository presents OpenFish-Edu, a simplified version of [OpenFish](https://osf.io/gsnc2/) used for educational purposes. The repo contains necessary design and fabrication files for building the OpenFish-Edu, which was first used by the HKUST ISDN2400 Physical Prototyping course.
 
+The original OpenFish project repository (https://osf.io/gsnc2/) provides the design and fabrication files needed to construct the OpenFish soft robotic fish. Comprehensive build instructions can be found in HardwareX paper [1] titled "OpenFish: Biomimetic Design of a Soft Robotic Fish for High-Speed Locomotion."
+
+[1] Van den Berg, S., Scharff, R., Rusák, Z., & Wu, J. (2022, May 19). OpenFish: Biomimetic Design of a Soft Robotic Fish for High Speed Locomotion. https://doi.org/10.17605/OSF.IO/GSNC2
+
 ## License
 
 This project is dual-licensed under the following terms:
