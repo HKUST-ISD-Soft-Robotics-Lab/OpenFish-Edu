@@ -5,6 +5,15 @@ The original OpenFish project repository (https://osf.io/gsnc2/) provides the de
 
 [1] Van den Berg, S., Scharff, R., Rusák, Z., & Wu, J. (2022, May 19). OpenFish: Biomimetic Design of a Soft Robotic Fish for High Speed Locomotion. https://doi.org/10.17605/OSF.IO/GSNC2
 
+![Openfish Preview. Image adopted from [1]](/MEDIA/OpenFish-org-preview.jpg)
+
+## What is new
+- OpenFish(original) -> OpenFish-Edu
+    - Deleted and simplified rail component designed for adjusting wire tension. Same tensioning effect can be achieved by improving the assembly process.
+    - Modify fish case part for direct installation of gearbox mechanism.
+    - Modify gearbox part to make transmission more reliable.
+    - Other small changes and bug fix.
+
 ## License
 
 This project is dual-licensed under the following terms:
