@@ -9,7 +9,6 @@ The original OpenFish project repository (https://osf.io/gsnc2/) provides the de
 
 ## What is new
 - OpenFish(original) -> OpenFish-Edu
-    - Deleted and simplified rail component designed for adjusting wire tension. The same tensioning effect can be achieved by improving the assembly process.
     - Modify fish case part for direct installation of gearbox mechanism.
     - Modify the gearbox part to make transmission more reliable.
     - Other minor changes and bug fixes.
@@ -26,7 +25,7 @@ You are free to use, modify, and distribute the code under the terms of the MIT 
 
 ### Non-Code Content
 
-The ​**non-code content** (e.g., documentation, images, media, etc.) is licensed under the ​**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
+The ​**non-code content** (e.g., documentation, images, media, CAD files etc.) is licensed under the ​**Creative Commons Attribution 4.0 International License (CC BY 4.0)**.  
 See the [LICENSE-CC-BY-4.0](LICENSE-CC-BY-4.0) file for details.  
 You are free to share and adapt the non-code content under the terms of the CC BY 4.0 License. ​**You must give appropriate credit** to the original author(s), provide a link to the license, and indicate if changes were made.
 
