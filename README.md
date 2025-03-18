@@ -37,4 +37,4 @@ If you use this project, please consider giving credit by linking to the origina
 
 ## Contact
 For questions or feedback, feel free to reach out:  
-[yuchen.liang@connect.ust.hk] | [scharffrbn@ust.hk]
+Yuchen LIANG [yuchen.liang@connect.ust.hk] | Yucheng LUO [yluobl@connect.ust.hk] | Prof. Rob SCHARFF[scharffrbn@ust.hk]
